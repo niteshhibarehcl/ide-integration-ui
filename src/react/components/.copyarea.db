@@ -1,0 +1,8 @@
+ClearCase CopyAreaDB|4
+int\ide_integration\ide-integration-ui\src\react\components
+2
+4
+17:OperationUIRenderer.tsx|1|1958e7e3101|643|bfb0bfd|71ea09f430604733976fdce1399ae216|0
+a:operations|2|0|0|0|6970565a9233431bb45ffec674c07fc4|0
+2:UI|2|0|0|0|f48f0096efd64d5d9611e8b2f964ee4c|0
+1d:operationComponentRegistry.ts|1|1956af3d64a|2f3|a64df8c7|2548869ecad440f09a51c8d2da509d71|0

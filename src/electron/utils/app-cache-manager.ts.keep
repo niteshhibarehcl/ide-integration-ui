@@ -1,0 +1,40 @@
+/**
+ * Description placeholder
+ *
+ * @export
+ * @class AppCacheManager
+ * @typedef {AppCacheManager}
+ * @template K 
+ * @template V 
+ */
+export class AppCacheManager<K, V> {
+  private cache: Map<K, V>;
+
+  constructor() {
+    this.cache = new Map<K, V>();
+  }
+
+  set(key: K, value: V): void {
+    this.cache.set(key, value);
+  }
+
+  get(key: K): V | undefined {
+    return this.cache.get(key);
+  }
+
+  has(key: K): boolean {
+    return this.cache.has(key);
+  }
+
+  delete(key: K): boolean {
+    return this.cache.delete(key);
+  }
+
+  clear(): void {
+    this.cache.clear();
+  }
+
+  size(): number {
+    return this.cache.size;
+  }
+}

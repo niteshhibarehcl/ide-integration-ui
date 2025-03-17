@@ -1,0 +1,7 @@
+ClearCase CopyAreaDB|4
+int\ide_integration\ide-integration-ui\src\react\components\operations
+2
+3
+14:DefaultOperation.tsx|1|1958e7e4866|161|13b67432|904e5d86f8aa4b98948fed3527bec90c|0
+12:ShowProperties.tsx|1|1958e7e5095|157|ad1f7051|b68539f6142940c194422b0552f13496|0
+a:createview|2|0|0|0|2df21845650a49d8a516344f660cae20|0

@@ -1,0 +1,7 @@
+ClearCase CopyAreaDB|4
+int\ide_integration\ide-integration-ui\src\electron\pipe
+2
+3
+17:ui-namedpipe-handler.ts|1|19594a49b30|eff|32f1c8c7|412163d975cb46a59bcba6ae1f58c522|0
+14:namedpipe-handler.ts|1|195958fd3bf|1932|b49ac983|778a7a1f3da44a29b42c1754c754e822|0
+12:namedpipe-utils.ts|1|195a2dc0378|191f|70f1c7f4|95fca9aa60db40c08c21358a976b0c66|0

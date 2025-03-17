@@ -1,0 +1,6 @@
+ClearCase CopyAreaDB|4
+int\ide_integration\ide-integration-ui\src\electron\controllers
+2
+2
+a:preload.ts|1|19594a45b78|a3c|350f35f6|a13cbc4ea92e40768ec98ca87a90b533|0
+10:ui-controller.ts|1|19596102e52|136b|4d93c69|bfde66dd8a2e4f0599a06f1264291202|0

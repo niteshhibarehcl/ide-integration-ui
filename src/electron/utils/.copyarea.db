@@ -1,0 +1,8 @@
+ClearCase CopyAreaDB|4
+int\ide_integration\ide-integration-ui\src\electron\utils
+2
+4
+16:app-timeout-handler.ts|1|195a2dd5e20|ae0|463e78de|65599de32df3407f9ffb3f4bf934bfa6|0
+17:property-load-reader.ts|1|195a2dfd8a1|fd9|17781a5c|7d38f538ef7e4c36bd79097a226c31a8|0
+c:app-utils.ts|1|195958fbf3a|bd4|d83f0121|2886989555974d6194d9f7a5abbe8075|0
+14:app-cache-manager.ts|1|19594a46ecb|8ff|7465a9f2|d9409d1f3088422c87ddf5ca7f6084d4|0

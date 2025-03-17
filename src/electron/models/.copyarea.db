@@ -1,0 +1,8 @@
+ClearCase CopyAreaDB|4
+int\ide_integration\ide-integration-ui\src\electron\models
+2
+4
+d:WindowData.ts|1|19594a46acc|65f|dc0a0ce4|086fd1b93da54cf4898a51627cfc6d7f|0
+e:APIResponse.ts|1|19594a4876a|335|5547031d|efbad569388a40cea1044f1efb4885f8|0
+10:Communication.ts|1|1953409d790|31b|975efc2a|72987c90757a408ea19dc1b86ddbfc80|0
+17:OperationRequestData.ts|1|1953409c1a7|5c5|213cd6a1|f432292f22dc469fbf627fc470b08952|0

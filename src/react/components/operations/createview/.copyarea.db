@@ -1,0 +1,10 @@
+ClearCase CopyAreaDB|4
+int\ide_integration\ide-integration-ui\src\react\components\operations\createview
+2
+6
+15:ViewStreamDetails.tsx|1|19591157587|f78|d1e9d94a|6c6c50779264471c81c97dfe13b40c7e|0
+e:CreateView.tsx|1|195958fbaeb|133b|d105da73|0d9f6246a9124d03b9423fd1b5169feb|0
+f:ViewOptions.tsx|1|19591158786|cb0|60ebe591|d1cbeae1706844c0bafcf1ba11c0a6c5|0
+10:ViewPathForm.tsx|1|195962377c3|9e4|ca1efe22|0233aa97d1e447f08f59d7594d1ddf31|0
+13:ViewTypeDetails.tsx|1|195911579b3|10c5|4a9e299e|5702d2a662aa4ff4b7d068249d7ff6e5|0
+13:ViewPathDetails.tsx|1|19596102a36|1d6f|8b49282f|927c81db2b9c4a01ade0416b44d13aaa|0

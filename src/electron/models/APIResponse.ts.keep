@@ -1,0 +1,17 @@
+export class APIResponse {
+  private responseCode: number;
+  private responseMsg: string;
+
+  public constructor(responseCode: number, responseMsg: string) {
+    this.responseCode = responseCode;
+    this.responseMsg = responseMsg;
+  }
+
+  public getResponseCode(): number {
+    return this.responseCode;
+  }
+
+  public getResponseMsg(): string {
+    return this.responseMsg;
+  }
+}

@@ -1,0 +1,14 @@
+ClearCase CopyAreaDB|4
+int\ide_integration\ide-integration-ui\src\electron
+2
+a
+6:models|2|0|0|0|6de9ff946d6f465a87a2e2305f4ba5e0|0
+7:main.ts|1|19594a48388|5c4|86a9e81f|34a28d33ebb94cc6aa76c78a4f9e1bb0|0
+6:common|2|0|0|0|e108fc7c435c494a94b336f3787b7c8f|0
+5:utils|2|0|0|0|4a558bd6167849ee89a52760a3fa75ad|0
+b:controllers|2|0|0|0|1222fbc09c9648f0ac55a2b265d42755|0
+4:pipe|2|0|0|0|34d843340e494ff9af3b959769cb8b03|0
+9:bootstrap|2|0|0|0|e36e9beb86f04d6ca41205821f640dd2|0
+a:processors|2|0|0|0|e9d462a6e36444ada78c0d3ca7fcd928|0
+8:services|2|0|0|0|fa207212345948f79aad43897f88c802|0
+3:ipc|2|0|0|0|4a6fbbce982a48e983a2ca98dc068720|0

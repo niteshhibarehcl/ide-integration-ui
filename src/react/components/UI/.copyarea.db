@@ -1,0 +1,14 @@
+ClearCase CopyAreaDB|4
+int\ide_integration\ide-integration-ui\src\react\components\UI
+2
+a
+13:StyledTextField.tsx|1|19591156689|384|afc01d59|3fdcc2bccaf04f46a4cb301ade63d5d5|0
+15:NavigationButtons.tsx|1|19591155f78|76c|e5725427|11dd9c15045445b398b83e442a1aa4c5|0
+14:StyledRadioGroup.tsx|1|19591159390|823|5fd57e15|1d478457a2cb489489d7ca57fb9777b2|0
+e:AppStepper.tsx|1|19591158b75|64b|9921deba|e41900ee44c94e1aa91427a2173f7411|0
+10:StyledButton.tsx|1|19591156ed4|534|12a7bcd6|472c705bec544f62a983f5792c561a69|0
+7:context|2|0|0|0|27a1373e3e714e8d8a3d87433b3687e1|0
+13:AppNotification.tsx|1|19591155b68|705|4553095|361ebb8faec947bd8177502e2c17fb1b|0
+15:StyledInfoSection.tsx|1|195960454a8|22f|0|0a38a53b6185449aba571a804e6993c8|0
+12:StyledCheckbox.tsx|1|19591158f76|428|8dc95a4c|1f27bf5f255f451182ffd0072cb7ce74|0
+1a:StyledFormControlLabel.tsx|1|19591157db1|329|ddf30717|7415258688c54f40902f583ca534e24d|0

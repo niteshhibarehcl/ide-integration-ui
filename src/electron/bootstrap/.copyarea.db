@@ -1,0 +1,6 @@
+ClearCase CopyAreaDB|4
+int\ide_integration\ide-integration-ui\src\electron\bootstrap
+2
+2
+f:main-process.ts|1|1953e805ee2|3e6|aee13ce2|2626f6725c044ea49e09fe2d9eb87ef0|0
+10:app-bootstrap.ts|1|195a2dfdcfc|7e5|f9f79fb2|ee32651909804429aed2db9aac51e818|0

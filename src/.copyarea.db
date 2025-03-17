@@ -1,0 +1,12 @@
+ClearCase CopyAreaDB|4
+int\ide_integration\ide-integration-ui\src
+2
+8
+b:config.json|1|1951d472503|1a|5d810755|3f1de0d57056477685ad426efc54aae3|0
+9:index.tsx|1|195958fc308|2fc|e5f8fccf|1949c3fc49cd4da1b70d11d930d2db0a|0
+6:shared|2|0|0|0|165b1a5875c449be808b402110c303bd|0
+7:locales|2|0|0|0|708f8fa426274d458afaf2a4de1e8033|0
+6:logger|2|0|0|0|5c0b625701734a068e09b0e63517262e|0
+8:electron|2|0|0|0|8eff7c49d27747afbeeef0429a748807|0
+5:react|2|0|0|0|aa1b08b49e5f43c1939649e6c52ad3c3|0
+4:i18n|2|0|0|0|9982eb946a3542f1a3f1ca3f2958d2ca|0

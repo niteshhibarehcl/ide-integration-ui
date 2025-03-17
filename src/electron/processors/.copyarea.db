@@ -1,0 +1,6 @@
+ClearCase CopyAreaDB|4
+int\ide_integration\ide-integration-ui\src\electron\processors
+2
+2
+18:request-queue-handler.ts|1|19594a4730e|c9d|5f293671|77932d50d6014342826567ae7791ee8e|0
+14:request-processor.ts|1|19594a44b05|cb8|de5f29a1|f98d53c4bec745ea8a792d260ce12f5a|0
